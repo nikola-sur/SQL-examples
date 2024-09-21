@@ -1,5 +1,7 @@
-# SQL-examples
-This document is updated to serve as a resource for some commonly used SQL commands. Examples can be found in the [Jupyter notebook](./SQL_queries.ipynb). For instance, the document includes:
+# SQL Examples
+*Common SQL Commands: A Living Document*
+
+This document is intended to serve as a resource for some commonly used SQL commands. Examples can be found in the [Jupyter notebook](./SQL_queries.ipynb). For instance, the document includes:
 - SELECT
 - WHERE
 - ORDER BY
